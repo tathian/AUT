@@ -1,0 +1,52 @@
+
+---Downloaded files---
+The import files for: Di eCommerce Demo Site were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/wordpress/wordpress
+Data file = C:\xampp\htdocs\wordpress\wordpress/wp-content/themes/di-ecommerce/inc/ocdi/files/demo-content.xml
+Widget file = C:\xampp\htdocs\wordpress\wordpress/wp-content/themes/di-ecommerce/inc/ocdi/files/widgets.wie
+Customizer file = C:\xampp\htdocs\wordpress\wordpress/wp-content/themes/di-ecommerce/inc/ocdi/files/customizer.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Blog Sidebar : 
+
+Image - Image Widget - Widget already exists
+Search - Search Website - Widget already exists
+Recent Posts with Thumbnail - Recent Posts - Widget already exists
+Categories - Post Categories - Widget already exists
+Di eCommerce Social Profile - Social Links - Widget already exists
+Audio - Audio Widget - Widget already exists
+Video - Video Widget - Widget already exists
+Text - Text Widget - Widget already exists
+Gallery - Gallery Widget - Widget already exists
+
+Page Sidebar : 
+
+Recent Posts with Thumbnail - Recent Posts - Widget already exists
+Search - Search Website - Widget already exists
+Audio - Audio Widget - Widget already exists
+Image - Image Widget - Widget already exists
+Video - Video Widget - Widget already exists
+
+Woocommerce Sidebar : 
+
+Product Search - Search Products - Widget already exists
+Filter Products by Price - Filter by price - Widget already exists
+Products by Rating - Top rated products - Widget already exists
+Gallery - Products Gallery - Widget already exists
+
+Top Header right : 
+
+Custom HTML - No Title - Widget already exists
+Product Search - No Title - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

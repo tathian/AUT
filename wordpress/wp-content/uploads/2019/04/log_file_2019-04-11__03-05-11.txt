@@ -1,0 +1,114 @@
+
+---Downloaded files---
+The import files for: Di eCommerce Demo Site were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/wordpress/wordpress
+Data file = C:\xampp\htdocs\wordpress\wordpress/wp-content/themes/di-ecommerce/inc/ocdi/files/demo-content.xml
+Widget file = C:\xampp\htdocs\wordpress\wordpress/wp-content/themes/di-ecommerce/inc/ocdi/files/widgets.wie
+Customizer file = C:\xampp\htdocs\wordpress\wordpress/wp-content/themes/di-ecommerce/inc/ocdi/files/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import elementor_library_type section
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import elementor_library_type section
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import elementor_library_type section
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import elementor_library_type section
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import elementor_library_type section
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import elementor_library_type section
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import elementor_library_type section
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import elementor_library_type section
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import elementor_library_type section
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import elementor_library_type section
+[WARNING] Failed to import "
+				Contact form 1		": Invalid post type wpcf7_contact_form
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Image - Image Widget - Imported
+Search - Search Website - Imported
+Recent Posts with Thumbnail - Recent Posts - Imported
+Categories - Post Categories - Imported
+Di eCommerce Social Profile - Social Links - Imported
+Audio - Audio Widget - Imported
+Video - Video Widget - Imported
+Text - Text Widget - Imported
+Gallery - Gallery Widget - Imported
+
+Page Sidebar : 
+
+Recent Posts with Thumbnail - Recent Posts - Imported
+Search - Search Website - Imported
+Audio - Audio Widget - Imported
+Image - Image Widget - Imported
+Video - Video Widget - Imported
+
+Woocommerce Sidebar : 
+
+Product Search - Search Products - Imported
+Filter Products by Price - Filter by price - Imported
+Products by Rating - Top rated products - Imported
+Gallery - Products Gallery - Imported
+
+Top Header right : 
+
+Custom HTML - No Title - Imported
+Product Search - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
